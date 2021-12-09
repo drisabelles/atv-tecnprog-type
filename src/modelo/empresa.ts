@@ -1,29 +1,34 @@
 import { Cliente } from './cliente';
 import { Produto } from './produto';
 import { Servico } from './servico';
+import { Pedido } from './pedido';
 
 export class Empresa {
   public nome: string;
   public clientes?: Cliente[];
   public produtos?: Produto[];
   public servicos?: Servico[];
+  public pedidos?: Pedido[];
 
   constructor(
     nome: string,
     clientes?: Cliente[],
     produtos?: Produto[],
     servicos?: Servico[],
+    pedidos?: Pedido[],
   ) {
     this.nome = nome;
     if (
       clientes !== undefined &&
       produtos !== undefined &&
       servicos !== undefined &&
-    )
+      pedidos  !== undefined && )
+    
       {
       this.clientes = clientes;
       this.produtos = produtos;
       this.servicos = servicos;
+      this.pedidos = pedidos;
     }
   }
 
@@ -53,6 +58,13 @@ export class Empresa {
   }
   public setServicos(servicos: Servico[]) {
     this.servicos = servicos;
+  }
+
+  public get getPedidos(): Pedido[] {
+    return this.pedidos || [];
+  }
+  public setPedidos(pedidos: Pedido[]) {
+    this.pedidos = pedidos;
   }
 
 }

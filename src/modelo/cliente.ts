@@ -9,7 +9,7 @@ export class Cliente extends Pessoa {
     nomeSocial: string,
     genero: string,
     nascimento: Date,
-    cpf: number,
+    cpf: string,
     telefones: Telefone[]
   ) {
     super(nome, nomeSocial, genero, nascimento, cpf, telefones);

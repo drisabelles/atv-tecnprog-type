@@ -5,7 +5,7 @@ export class Pessoa {
   public nomeSocial: string;
   public genero: string;
   readonly nascimento: Date;
-  readonly cpf: number;
+  public cpf: string;
   public telefones: Telefone[];
 
   constructor(
@@ -13,7 +13,7 @@ export class Pessoa {
     nomeSocial: string,
     genero: string,
     nascimento: Date,
-    cpf: number,
+    cpf: string,
     telefones: Telefone[]
   ) {
     this.nome = nome;
@@ -43,6 +43,13 @@ export class Pessoa {
   }
   public setGenero(genero: string) {
     this.genero = genero;
+  }
+
+  public get getCPF(): string {
+    return this.cpf;
+  }
+  public setCPF(cpf: string) {
+    this.cpf = cpf;
   }
   
   public get getTelefones(): Telefone[] {

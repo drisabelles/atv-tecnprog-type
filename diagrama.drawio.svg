@@ -1,0 +1,520 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1041px" height="1076px" viewBox="-0.5 -0.5 1041 1076" content="&lt;mxfile&gt;&lt;diagram id=&quot;fCjiOBwio28vMJ6sziC5&quot; name=&quot;Página-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-294-54-272-26-0">
+            <rect x="294" y="54" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-80-272-26-0">
+            <rect x="294" y="80" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-106-272-26-0">
+            <rect x="294" y="106" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-140-272-56-0">
+            <rect x="294" y="140" width="272" height="56"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-196-272-26-0">
+            <rect x="294" y="196" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-222-272-26-0">
+            <rect x="294" y="222" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-248-272-26-0">
+            <rect x="294" y="248" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-274-272-26-0">
+            <rect x="294" y="274" width="272" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-31-312-26-0">
+            <rect x="724" y="31" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-57-312-26-0">
+            <rect x="724" y="57" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-83-312-26-0">
+            <rect x="724" y="83" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-117-312-26-0">
+            <rect x="724" y="117" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-143-312-26-0">
+            <rect x="724" y="143" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-169-312-26-0">
+            <rect x="724" y="169" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-195-312-26-0">
+            <rect x="724" y="195" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-221-312-26-0">
+            <rect x="724" y="221" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-247-312-26-0">
+            <rect x="724" y="247" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-724-273-312-26-0">
+            <rect x="724" y="273" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-394-202-26-0">
+            <rect x="404" y="394" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-420-202-26-0">
+            <rect x="404" y="420" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-446-202-26-0">
+            <rect x="404" y="446" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-472-202-26-0">
+            <rect x="404" y="472" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-506-202-42-0">
+            <rect x="404" y="506" width="202" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-548-202-26-0">
+            <rect x="404" y="548" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-464-152-26-0">
+            <rect x="884" y="464" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-490-152-26-0">
+            <rect x="884" y="490" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-516-152-26-0">
+            <rect x="884" y="516" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-542-152-26-0">
+            <rect x="884" y="542" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-576-152-62-0">
+            <rect x="884" y="576" width="152" height="62"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-638-152-62-0">
+            <rect x="884" y="638" width="152" height="62"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-621-172-26-0">
+            <rect x="684" y="621" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-647-172-26-0">
+            <rect x="684" y="647" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-673-172-26-0">
+            <rect x="684" y="673" width="172" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-707-172-48-0">
+            <rect x="684" y="707" width="172" height="48"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-755-172-50-0">
+            <rect x="684" y="755" width="172" height="50"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-614-312-26-0">
+            <rect x="294" y="614" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-640-312-26-0">
+            <rect x="294" y="640" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-666-312-26-0">
+            <rect x="294" y="666" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-692-312-42-0">
+            <rect x="294" y="692" width="312" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-734-312-40-0">
+            <rect x="294" y="734" width="312" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-782-312-142-0">
+            <rect x="294" y="782" width="312" height="142"/>
+        </clipPath>
+        <clipPath id="mx-clip-294-924-312-26-0">
+            <rect x="294" y="924" width="312" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-384-192-26-0">
+            <rect x="4" y="384" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-410-192-26-0">
+            <rect x="4" y="410" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-444-192-44-0">
+            <rect x="4" y="444" width="192" height="44"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-488-192-26-0">
+            <rect x="4" y="488" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-514-192-26-0">
+            <rect x="4" y="514" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-540-192-26-0">
+            <rect x="4" y="540" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-566-192-26-0">
+            <rect x="4" y="566" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-592-192-26-0">
+            <rect x="4" y="592" width="192" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 290 49 L 290 23 L 570 23 L 570 49" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 49 L 290 347 L 570 347 L 570 49" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 290 49 L 570 49" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="429.5" y="40.5">
+                Cliente
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-54-272-26-0)" font-size="12px">
+            <text x="295.5" y="66.5">
+                readonly id: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-80-272-26-0)" font-size="12px">
+            <text x="295.5" y="92.5">
+                readonly telefones: Array&lt;Phone&gt;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-106-272-26-0)" font-size="12px">
+            <text x="295.5" y="118.5">
+                private pedidos: Array&lt;Order&gt;
+            </text>
+        </g>
+        <path d="M 290 131 L 570 131" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-140-272-56-0)" font-size="12px">
+            <text x="295.5" y="152.5">
+                constructor(id: number, nome: string,
+            </text>
+            <text x="295.5" y="166.5">
+                CPF: string, nascimento: Date, genero: string,
+            </text>
+            <text x="295.5" y="180.5">
+                telefones: Array&lt;Phone&gt;) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-196-272-26-0)" font-size="12px">
+            <text x="295.5" y="208.5">
+                public set atualizarCliente(): {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-222-272-26-0)" font-size="12px">
+            <text x="295.5" y="234.5">
+                public get pedidos(): {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-248-272-26-0)" font-size="12px">
+            <text x="295.5" y="260.5">
+                public set pedidos(Array&lt;Order&gt;) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-274-272-26-0)" font-size="12px">
+            <text x="295.5" y="286.5">
+                public set listarPedidos(Array&lt;Order&gt;) {}
+            </text>
+        </g>
+        <path d="M 720 26 L 720 0 L 1040 0 L 1040 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 26 L 720 294 L 1040 294 L 1040 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 26 L 1040 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="879.5" y="17.5">
+                Empresa
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-31-312-26-0)" font-size="12px">
+            <text x="725.5" y="43.5">
+                private _listarClientes: Array&lt;Clientes&gt;;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-57-312-26-0)" font-size="12px">
+            <text x="725.5" y="69.5">
+                private _listarProdutos: Array&lt;Prpduto&gt;;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-83-312-26-0)" font-size="12px">
+            <text x="725.5" y="95.5">
+                private listarServicos: Array&lt;Servico&gt;;
+            </text>
+        </g>
+        <path d="M 720 108 L 1040 108" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-117-312-26-0)" font-size="12px">
+            <text x="725.5" y="129.5">
+                constructor() {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-143-312-26-0)" font-size="12px">
+            <text x="725.5" y="155.5">
+                public get clientes() {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-169-312-26-0)" font-size="12px">
+            <text x="725.5" y="181.5">
+                public get produtos() {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-195-312-26-0)" font-size="12px">
+            <text x="725.5" y="207.5">
+                public get servicos() {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-221-312-26-0)" font-size="12px">
+            <text x="725.5" y="233.5">
+                public setListarCleintes(atualizarClientes: Array&lt;Cliente&gt;) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-247-312-26-0)" font-size="12px">
+            <text x="725.5" y="259.5">
+                public setListarProdutos(atualizarProdutos: Array&lt;Produto&gt;) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-724-273-312-26-0)" font-size="12px">
+            <text x="725.5" y="285.5">
+                public setListarServicos(atualizarServicos: Array&lt;Servicos&gt;) {}
+            </text>
+        </g>
+        <path d="M 400 389 L 400 363 L 610 363 L 610 389" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 389 L 400 573 L 610 573 L 610 389" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 389 L 610 389" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="504.5" y="380.5">
+                Pessoa
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-394-202-26-0)" font-size="12px">
+            <text x="405.5" y="406.5">
+                public nome: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-420-202-26-0)" font-size="12px">
+            <text x="405.5" y="432.5">
+                private CPF: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-446-202-26-0)" font-size="12px">
+            <text x="405.5" y="458.5">
+                readonly nascimento: Date
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-472-202-26-0)" font-size="12px">
+            <text x="405.5" y="484.5">
+                public genero: string
+            </text>
+        </g>
+        <path d="M 400 497 L 610 497" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-506-202-42-0)" font-size="12px">
+            <text x="405.5" y="518.5">
+                constructor(nome: string, CPF: string,
+            </text>
+            <text x="405.5" y="532.5">
+                nascimento: Date, genero: string) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-548-202-26-0)" font-size="12px">
+            <text x="405.5" y="560.5">
+                public getCPF() {}
+            </text>
+        </g>
+        <path d="M 880 459 L 880 433 L 1040 433 L 1040 459" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 459 L 880 695 L 1040 695 L 1040 459" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 459 L 1040 459" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="959.5" y="450.5">
+                Produto
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-464-152-26-0)" font-size="12px">
+            <text x="885.5" y="476.5">
+                readonly id: number;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-490-152-26-0)" font-size="12px">
+            <text x="885.5" y="502.5">
+                public nome: string;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-516-152-26-0)" font-size="12px">
+            <text x="885.5" y="528.5">
+                public preco: number;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-542-152-26-0)" font-size="12px">
+            <text x="885.5" y="554.5">
+                public quantidade: number;
+            </text>
+        </g>
+        <path d="M 880 567 L 1040 567" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-576-152-62-0)" font-size="12px">
+            <text x="885.5" y="588.5">
+                constructor(id: number,
+            </text>
+            <text x="885.5" y="602.5">
+                nome: string, preco: number,
+            </text>
+            <text x="885.5" y="616.5">
+                quantidade: number) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-638-152-62-0)" font-size="12px">
+            <text x="885.5" y="650.5">
+                public set atualizar(payload: {
+            </text>
+            <text x="885.5" y="664.5">
+                preco: number;
+            </text>
+            <text x="885.5" y="678.5">
+                quantidade: number }) {}
+            </text>
+        </g>
+        <path d="M 680 616 L 680 590 L 860 590 L 860 616" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 616 L 680 800 L 860 800 L 860 616" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 616 L 860 616" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="769.5" y="607.5">
+                Servico
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-621-172-26-0)" font-size="12px">
+            <text x="685.5" y="633.5">
+                readonly id: number;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-647-172-26-0)" font-size="12px">
+            <text x="685.5" y="659.5">
+                public nome: string;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-673-172-26-0)" font-size="12px">
+            <text x="685.5" y="685.5">
+                public preco: number;
+            </text>
+        </g>
+        <path d="M 680 698 L 860 698" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-707-172-48-0)" font-size="12px">
+            <text x="685.5" y="719.5">
+                constructor(id: number,
+            </text>
+            <text x="685.5" y="733.5">
+                nome: string, preco: number) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-755-172-50-0)" font-size="12px">
+            <text x="685.5" y="767.5">
+                public set atualizar(payload:
+            </text>
+            <text x="685.5" y="781.5">
+                { preco: number }) {}
+            </text>
+        </g>
+        <path d="M 290 609 L 290 583 L 610 583 L 610 609" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 290 609 L 290 1075 L 610 1075 L 610 609" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 290 609 L 610 609" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="449.5" y="600.5">
+                Pedido
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-614-312-26-0)" font-size="12px">
+            <text x="295.5" y="626.5">
+                readonly id: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-640-312-26-0)" font-size="12px">
+            <text x="295.5" y="652.5">
+                readonly cliente_id: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-666-312-26-0)" font-size="12px">
+            <text x="295.5" y="678.5">
+                public pedido_valor: number
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-692-312-42-0)" font-size="12px">
+            <text x="295.5" y="704.5">
+                readonly listarProdutos:
+            </text>
+            <text x="295.5" y="718.5">
+                Array&lt;{produto: Produto, unidade: number}&gt;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-734-312-40-0)" font-size="12px">
+            <text x="295.5" y="746.5">
+                readonly listarServicos:
+            </text>
+            <text x="295.5" y="760.5">
+                Array&lt;{servico: Servico, unidade: number}&gt;
+            </text>
+        </g>
+        <path d="M 290 773 L 610 773" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-782-312-142-0)" font-size="12px">
+            <text x="295.5" y="794.5">
+                constructor(
+            </text>
+            <text x="295.5" y="808.5">
+                id: number,
+            </text>
+            <text x="295.5" y="822.5">
+                cliente_id: number,
+            </text>
+            <text x="295.5" y="836.5">
+                listarProdutos?: Array&lt;{produto: Produto, unidade: number}&gt;,
+            </text>
+            <text x="295.5" y="850.5">
+                listarServicos?: Array&lt;{ servico: Servico; unidade: number }&gt;
+            </text>
+            <text x="295.5" y="864.5">
+                )
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-294-924-312-26-0)" font-size="12px">
+            <text x="295.5" y="936.5">
+                public handleValorPedidot() {}
+            </text>
+        </g>
+        <path d="M 0 379 L 0 353 L 200 353 L 200 379" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 379 L 0 613 L 200 613 L 200 379" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 379 L 200 379" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-style="italic" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="99.5" y="370.5">
+                Telefones
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-384-192-26-0)" font-size="12px">
+            <text x="5.5" y="396.5">
+                private ddd: number;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-410-192-26-0)" font-size="12px">
+            <text x="5.5" y="422.5">
+                private numero: number;
+            </text>
+        </g>
+        <path d="M 0 435 L 200 435" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-444-192-44-0)" font-size="12px">
+            <text x="5.5" y="456.5">
+                constructor(ddd: number,
+            </text>
+            <text x="5.5" y="470.5">
+                numero: number) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-488-192-26-0)" font-size="12px">
+            <text x="5.5" y="500.5">
+                public get getDdd(): number {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-514-192-26-0)" font-size="12px">
+            <text x="5.5" y="526.5">
+                public setDDD(ddd: number) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-540-192-26-0)" font-size="12px">
+            <text x="5.5" y="552.5">
+                public get getNumero(): number {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-566-192-26-0)" font-size="12px">
+            <text x="5.5" y="578.5">
+                public setNumero(numero: number) {}
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-592-192-26-0)" font-size="12px">
+            <text x="5.5" y="604.5">
+                public getTelefone() {}
+            </text>
+        </g>
+    </g>
+</svg>

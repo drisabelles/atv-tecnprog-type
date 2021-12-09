@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.AtualizarCliente = exports.ListarClientes = exports.DeletarCliente = exports.CadastrarCliente = void 0;
+var cadastrarCliente_1 = require("./cadastrarCliente");
+Object.defineProperty(exports, "CadastrarCliente", { enumerable: true, get: function () { return cadastrarCliente_1.CadastrarCliente; } });
+var deletarCliente_1 = require("./deletarCliente");
+Object.defineProperty(exports, "DeletarCliente", { enumerable: true, get: function () { return deletarCliente_1.DeletarCliente; } });
+var listarClientes_1 = require("./listarClientes");
+Object.defineProperty(exports, "ListarClientes", { enumerable: true, get: function () { return listarClientes_1.ListarClientes; } });
+var atualizarCliente_1 = require("./atualizarCliente");
+Object.defineProperty(exports, "AtualizarCliente", { enumerable: true, get: function () { return atualizarCliente_1.AtualizarCliente; } });
