@@ -42,7 +42,7 @@ Aplicação desenvolviva sobre um salão de beleza e estética nomeado Worl Beau
 ```bash
 
 # Baixe este repositório ou clone pelo Git usando o comando:
-$ git clone https://github.com/drisabelles/atv-world-beauty
+$ git clone https://github.com/drisabelles/atv-world-beauty.git
 
 # Acesse a pasta do projeto
 $ cd atv-world-beauty
