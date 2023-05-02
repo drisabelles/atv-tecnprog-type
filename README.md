@@ -1,16 +1,82 @@
+<div align="center">
+
+# 💅🏻 World Beauty 💇🏼
+
+</div>
+
+<div align="center">
+
+[Sobre o projeto](#project) | [Usabilidades](#usabilities) | [Ferramentas](#tools) | [Executando](#running) | [Organização das pastas](#folders) | [Autor](#autor)
+
+</div>
+
+</br>
+
 [![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-NÃO%20FINALIZADO-red)](https://shields.io/)
-<h1 align = "center"> Projeto Word Beauty - Typescript </h1>
 
-## :file_folder: Organização das pastas 
+</br>
 
-## 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/out">/out</a>: Contém os arquivos de saída (em javascript) dos arquivos principais.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/out/app">/app:</a> referente ao arquivo da página principal do projeto.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/out/cruds">/cruds</a>: arquivos de criação, listagem, atualização e exclusão de clientes, produtos, objetos e pedidos.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/out/io">/io</a>: arquivo de entrada de informações.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/out/modelo">/modelo</a>: arquivos base para cada classe.
+## ✒️ Sobre o projeto <a name="project"></a>
+Aplicação desenvolviva sobre um salão de beleza e estética nomeado Worl Beauty, com o intuito de realizar o CRUD (cadastro, remoção, atualização e listagem) de serviços, clientes e agendamentos. Esse é um desenvolvimento decorrente do acompanhamento das aulas de Técnica de Programação I, ministradas pelo professor Gerson Penha na FATEC São José dos Campos - Jessen Vidal.
 
-## 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/src">/src</a>: Contém os arquivos principais digitados para a criação dos cadastros e trabalhos com as informações recebidas.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/src/app">/app</a>: referente ao arquivo da página principal do projeto.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/src/cruds">/cruds</a>: arquivos criação, listagem, atualização e exclusão de clientes, produtos, objetos e pedidos.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/src/io">/io</a>: arquivos de entrada de informações.
-##### 📁 <a href="https://github.com/drisabelles/atv-tecnprog-type/tree/main/src/modelo">/modelo</a>: arquivos base para cada classe.
+</br>
+
+## 🪢 Usabilidades <a name="usabilities"></a>
+- [X] CRUD de serviços
+- [X] CRUD de clientes
+- [X] CRUD de horários
+
+</br>
+
+## ⚒️ Ferramentas <a name="tools"></a>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e4d2e4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-e4d2e4.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-e4d2e4.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-e4d2e4.svg?style=for-the-badge&logo=postgresql&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-e4d2e4.svg?style=for-the-badge&logo=express&logoColor=black)
+
+</br>
+
+## ⚙️ Executando <a name="running"></a>
+
+```bash
+
+# Baixe este repositório ou clone pelo Git usando o comando:
+$ git clone https://github.com/drisabelles/atv-world-beauty
+
+# Acesse a pasta do projeto
+$ cd atv-world-beauty
+
+# Instale as dependências
+$ npm install
+
+# Inicie o projeto
+$ npm run
+
+```
+
+</br>
+
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 atv-world-beauty
+|- 📁 out
+|- 📁 src
+|--- 📁 app
+|--- 📁 cruds
+|--- 📁 io
+|--- 📁 modelo
+|--- 📄 buscas.ts
+|--- 📄 filtros.ts
+|- 📄 diagrama.drawio.svg
+|- 📄 package-lock.json
+|- 📄 package.json
+|- 📄 tsconfig.json
+```
+
+</br>
+
+## 👩‍💻 Autor <a name="autor"></a>
+
+- LinkedIn - [Isabelle Ribeiro](https://www.linkedin.com/in/drisabelles/)
