@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💅🏻 World Beauty 💇🏼
+# 💅🏻💇🏻‍♀️ World Beauty 💇🏻‍♀️💅🏻
 
 </div>
 
